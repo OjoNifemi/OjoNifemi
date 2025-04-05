@@ -1,7 +1,19 @@
-## Hi there 👋
+<h1>Hi, I'm Ojo Oluwanifemi Gerald! <br/><a href="https://github.com/joshmadakor1">Programmer</a>,
+
+<h2>👨‍💻 Software Projects:</h2>
+
+- <b>C# Projects</b>
+
+- <b>Web development projects</b>
+ 
+- <b>Sql projets</b>
+
+
+<h2> 🤳 Connect with me:</h2>
+
 
 <!--
-**OjoNifemi/OjoNifemi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
